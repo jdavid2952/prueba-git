@@ -2,5 +2,10 @@
 # desarrollado por Juan David Orozco Otalvaro
 date
 echo Mi primer repositorio
+<<<<<<< HEAD
 ipconfig  >>  interfaces
 
+=======
+echo Holas
+ping udea.edu.co -c10
+>>>>>>> Juan
