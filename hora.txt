@@ -1,4 +1,5 @@
 #!/bin/bash
+# desarrollado por Juan David Orozco Otalvaro
 date
 echo Mi primer repositorio
 ipconfig  >>  interfaces
