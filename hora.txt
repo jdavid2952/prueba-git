@@ -2,3 +2,4 @@
 date
 echo Mi primer repositorio
 ipconfig  >>  interfaces
+
